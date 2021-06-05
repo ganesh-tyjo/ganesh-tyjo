@@ -16,7 +16,7 @@
 [<img align="left" alt="Ganesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ganesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Ganesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Ganesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -34,6 +34,17 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="center" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api?username=ganesh-tyjo&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ganesh's github stats"/>
+
+  <img align="center" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api/top-langs/?username=ganesh-tyjo&theme=light&layout=compact&langs_count=10&hide_langs_below=1" alt="Ganesh's most used languages"/>
+</details>
 
 [company]: https://www.kantar.com
 [portfolio]: https://ganesh-shinde.netlify.app
