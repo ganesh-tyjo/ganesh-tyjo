@@ -41,8 +41,10 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <br />
   <img align="center" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api?username=ganesh-tyjo&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ganesh's github stats"/>
-
+  <br />
+  <br />
   <img align="center" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api/top-langs/?username=ganesh-tyjo&theme=light&layout=compact&langs_count=10&hide_langs_below=1" alt="Ganesh's most used languages"/>
 </details>
 
