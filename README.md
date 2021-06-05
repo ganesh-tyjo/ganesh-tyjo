@@ -40,6 +40,13 @@
 ---
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  <br />
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
   <br />
   <img align="center" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api?username=ganesh-tyjo&show_icons=true&theme=light&line_height=27&count_private=true" alt="Ganesh's github stats"/>
