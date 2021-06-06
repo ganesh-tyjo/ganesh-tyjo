@@ -6,13 +6,13 @@
 - 🔭 I’m currently working at [KANTAR][company]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 💬 Ask me about Tech
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I play Football and 8-Ball Pool
+- ⚡ Fun fact: I play Football and 8-Ball pool
 
 ### Connect with me:
 
-[<img align="left" alt="ganesh-shinde.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="Ganesh's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="Ganesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ganesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Ganesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -58,10 +58,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br />
-  <img align="center" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api?username=ganesh-tyjo&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Ganesh's github stats"/>
+  <img align="center" alt="Ganesh's github stats" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api?username=ganesh-tyjo&show_icons=true&theme=tokyonight&line_height=27&count_private=true" />
   <br />
   <br />
-  <img align="center" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api/top-langs/?username=ganesh-tyjo&theme=tokyonight&layout=compact&langs_count=10&hide_langs_below=1" alt="Ganesh's most used languages"/>
+  <img align="center" alt="Ganesh's most used languages" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api/top-langs/?username=ganesh-tyjo&theme=tokyonight&layout=compact&langs_count=10&hide_langs_below=1" />
 </details>
 
 [company]: https://www.kantar.com
