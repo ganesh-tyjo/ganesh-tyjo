@@ -3,8 +3,8 @@ name: Latest YouTube videos workflow
 on:
   # Run workflow automatically
   schedule:
-    # Runs every hour, on the hour
-    - cron: '0 * * * *'
+    # Runs once in a day at 00:00 AM IST
+    - cron: '30 18 * * *'
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 
