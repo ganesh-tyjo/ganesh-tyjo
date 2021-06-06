@@ -71,6 +71,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <br />
+  
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/ganesh-tyjo/gulp-app/pull/2) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
 2. 💪 Opened PR [#2](https://github.com/ganesh-tyjo/gulp-app/pull/2) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
@@ -78,6 +79,7 @@
 4. 🗣 Commented on [#1](https://github.com/ganesh-tyjo/gulp-app/issues/1) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
 5. ❗️ Opened issue [#1](https://github.com/ganesh-tyjo/gulp-app/issues/1) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
   <!--END_SECTION:activity-->
+  
 </details>
 
 <details>
