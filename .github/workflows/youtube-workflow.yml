@@ -1,4 +1,4 @@
-name: Latest blog posts workflow
+name: Latest YouTube videos workflow
 
 on:
   # Run workflow automatically
@@ -9,12 +9,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-youtube:
     runs-on: ubuntu-latest
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest videos from YouTube
 
     steps:
       - uses: actions/checkout@v2
       - uses: ganesh-tyjo/blog-post-workflow@master
         with:
-          feed_list: 'https://dev.to/feed/ganeshtyjo'
+          comment_tag_name: 'YOUTUBE'
+          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCQum-CxxmpCiqmi6ea8XKdA'
