@@ -36,9 +36,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
-#### Business
+#### Bizness
 
 - :paperclip: [My Resume/CV][resume]
 - :email: ganeshshinde.tyjo@gmail.com
@@ -71,5 +70,5 @@
 [github]: https://github.com/ganesh-tyjo
 [instagram]: https://www.instagram.com/ganesh.tyjo
 [facebook]: https://www.facebook.com/ganesh.tyjo
+[resume]: https://github.com/ganesh-tyjo/ganesh-tyjo/blob/master/content/documents/Resume_GaneshShinde.pdf
 [visitors]: https://visitor-badge.glitch.me/badge?page_id=ganesh-tyjo.ganesh-tyjo
-[resume]: https://github.com/ganesh-tyjo/ganesh-tyjo/blob/master/content/documents/Resume_GaneshShinde.docx
