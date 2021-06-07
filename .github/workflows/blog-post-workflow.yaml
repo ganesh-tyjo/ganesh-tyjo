@@ -10,7 +10,7 @@ on:
 
 jobs:
   update_readme_with_blog:
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
     name: Update this repo's README with latest blog posts
 
     steps:
