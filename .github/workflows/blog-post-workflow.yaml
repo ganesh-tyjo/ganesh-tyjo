@@ -4,17 +4,17 @@ on:
   # Run workflow automatically
   schedule:
     # Runs once in a day at 00:00 AM IST
-    - cron: '30 18 * * *'
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+    - cron: 30 18 * * *
+  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    runs-on: ubuntu-latest
+  update_readme_with_blog:
+    runs_on: ubuntu-latest
     name: Update this repo's README with latest blog posts
 
     steps:
       - uses: actions/checkout@v2
       - uses: ganesh-tyjo/blog-post-workflow@master
         with:
-          feed_list: 'https://dev.to/feed/ganeshtyjo'
+          feed_list: https://dev.to/feed/ganeshtyjo

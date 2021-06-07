@@ -4,12 +4,12 @@ on:
   # Run workflow automatically
   schedule:
     # Runs once in a day at 00:00 AM IST
-    - cron: '30 18 * * *'
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+    - cron: 30 18 * * *
+  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 
 jobs:
-  update-readme-with-youtube:
+  update_readme_with_youtube:
     runs-on: ubuntu-latest
     name: Update this repo's README with latest videos from YouTube
 
@@ -17,5 +17,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: ganesh-tyjo/blog-post-workflow@master
         with:
-          comment_tag_name: 'YOUTUBE'
-          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCQum-CxxmpCiqmi6ea8XKdA'
+          comment_tag_name: YOUTUBE
+          feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UCQum-CxxmpCiqmi6ea8XKdA

@@ -4,12 +4,12 @@ on:
   # Run workflow automatically
   schedule:
     # Runs every 6 hours, in a day
-    - cron: '0 */6 * * *'
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+    - cron: 0 */6 * * *
+  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 
 jobs:
-  update-readme-with-github:
+  update_readme_with_github:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent GitHub activity
 
