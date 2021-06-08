@@ -44,7 +44,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Amazing skills](https://www.youtube.com/watch?v=R0C05EdxOPw)
 <!-- YOUTUBE:END -->
 
 ---
@@ -52,7 +51,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/ganeshtyjo/test-post-2k5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
