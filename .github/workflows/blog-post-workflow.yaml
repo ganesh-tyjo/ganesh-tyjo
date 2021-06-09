@@ -4,7 +4,7 @@ on:
   # Run workflow automatically
   schedule:
     # Runs once in a day at 00:00 AM IST
-    - cron: 50 17 * * *
+    - cron: 30 18 * * *
   # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 
@@ -17,13 +17,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: ganesh-tyjo/blog-post-workflow@master
         with:
-            feed_list: https://dev.to/feed/ganeshtyjo
-      - name: Current Time
-        uses: gerred/current-time@v1.0.0
-      - name: Get current time
-        uses: gerred/actions/current-time@master
-        id: current-time
-      - name: Use current time
-        env:
-          TIME: "${{ steps.current-time.outputs.time }}"
-        run: echo $TIME
+          feed_list: https://dev.to/feed/ganeshtyjo
