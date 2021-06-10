@@ -15,10 +15,11 @@
 ### Connect with me:
 
 [<img align="left" alt="Ganesh's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="Ganesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ganesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Ganesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ganesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Ganesh's Linkedin" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ganesh's Github" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/github.svg" />][github]
+[<img align="left" alt="Ganesh's DEV" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/devdotto.svg" />][dev]
+[<img align="left" alt="Ganesh's Instagram" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ganesh's Facebook" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -44,6 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Amazing skills](https://www.youtube.com/watch?v=R0C05EdxOPw)
 <!-- YOUTUBE:END -->
 
@@ -52,6 +54,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Test Post](https://dev.to/ganeshtyjo/test-post-2k5p)
 <!-- BLOG-POST-LIST:END -->
 
@@ -95,6 +98,7 @@
 [portfolio]: https://ganesh-shinde.netlify.app
 [linkedin]: https://linkedin.com/in/ganesh-tyjo
 [github]: https://github.com/ganesh-tyjo
+[dev]: https://dev.to/ganeshtyjo
 [instagram]: https://www.instagram.com/ganesh.tyjo
 [facebook]: https://www.facebook.com/ganesh.tyjo
 [resume]: https://github.com/ganesh-tyjo/ganesh-tyjo/blob/master/content/documents/Resume_GaneshShinde.pdf
