@@ -45,7 +45,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Amazing skills](https://www.youtube.com/watch?v=R0C05EdxOPw)
 <!-- YOUTUBE:END -->
 
