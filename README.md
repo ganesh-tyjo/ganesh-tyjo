@@ -53,7 +53,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NPM Cheat Sheet](https://dev.to/ganeshtyjo/test-post-2k5p)
+- [Markdown Cheat Sheet](https://dev.to/ganeshtyjo/markdown-cheat-sheet-1mh0)
+- [NPM Cheat Sheet](https://dev.to/ganeshtyjo/npm-cheat-sheet-2om5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
