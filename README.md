@@ -4,7 +4,8 @@
 
 ## I'm a Software Developer
 
-- ✍ You can find my projects here [portfolio]
+<!-- - ✍ You can find my projects here [portfolio] -->
+
 - 🔭 I’m currently working at [KANTAR][company]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open source
@@ -40,12 +41,11 @@
 
 <br />
 
----
+<!-- ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
-- [Amazing skills](https://www.youtube.com/watch?v=R0C05EdxOPw)
 <!-- YOUTUBE:END -->
 
 ---
@@ -53,8 +53,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gulp 4 Tutorial](https://dev.to/ganeshtyjo/gulp-4-tutorial-50l8)
-- [Source Maps](https://dev.to/ganeshtyjo/source-maps-4h41)
+
 - [Markdown Cheat Sheet](https://dev.to/ganeshtyjo/markdown-cheat-sheet-1mh0)
 - [NPM Cheat Sheet](https://dev.to/ganeshtyjo/npm-cheat-sheet-2om5)
 <!-- BLOG-POST-LIST:END -->
@@ -77,11 +76,11 @@
   <br />
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ganesh-tyjo/joke/pull/2) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
-2. 💪 Opened PR [#2](https://github.com/ganesh-tyjo/joke/pull/2) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
-3. 🎉 Merged PR [#1](https://github.com/ganesh-tyjo/joke/pull/1) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
-4. 💪 Opened PR [#1](https://github.com/ganesh-tyjo/joke/pull/1) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
-5. 🎉 Merged PR [#2](https://github.com/ganesh-tyjo/gulp-app/pull/2) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
+1. 🎉 Merged PR [#2](https://github.com/ganesh-tyjo/gulp-app/pull/2) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
+2. 💪 Opened PR [#2](https://github.com/ganesh-tyjo/gulp-app/pull/2) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
+3. ❗️ Closed issue [#1](https://github.com/ganesh-tyjo/gulp-app/issues/1) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
+4. 🗣 Commented on [#1](https://github.com/ganesh-tyjo/gulp-app/issues/1) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
+5. ❗️ Opened issue [#1](https://github.com/ganesh-tyjo/gulp-app/issues/1) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
   <!--END_SECTION:activity-->
   
 </details>
