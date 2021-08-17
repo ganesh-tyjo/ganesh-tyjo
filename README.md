@@ -53,7 +53,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Gulp 4 Tutorial](https://dev.to/ganeshtyjo/gulp-4-tutorial-50l8)
+- [Source Maps](https://dev.to/ganeshtyjo/source-maps-4h41)
 - [Markdown Cheat Sheet](https://dev.to/ganeshtyjo/markdown-cheat-sheet-1mh0)
 - [NPM Cheat Sheet](https://dev.to/ganeshtyjo/npm-cheat-sheet-2om5)
 <!-- BLOG-POST-LIST:END -->
