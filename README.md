@@ -6,7 +6,7 @@
 
 <!-- - ✍ You can find my projects here [portfolio] -->
 
-- 🔭 I’m currently working at [KANTAR][company]
+- 🔭 I’m currently working at [Creative IT India][company]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Tech
@@ -95,7 +95,7 @@
   <img align="center" alt="Ganesh's most used languages" src="https://github-readme-stats-ganesh-tyjo.vercel.app/api/top-langs/?username=ganesh-tyjo&theme=tokyonight&layout=compact&langs_count=10&hide_langs_below=1" />
 </details>
 
-[company]: https://www.kantar.com
+[company]: https://www.citi-us.com/
 [portfolio]: https://ganesh-shinde.netlify.app
 [linkedin]: https://linkedin.com/in/ganesh-tyjo
 [github]: https://github.com/ganesh-tyjo
