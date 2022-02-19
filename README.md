@@ -77,8 +77,8 @@
   <br />
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ganesh-tyjo/joke/pull/2) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
-2. 💪 Opened PR [#2](https://github.com/ganesh-tyjo/joke/pull/2) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
+1. 🎉 Merged PR [#1](https://github.com/ganesh-tyjo/portfolio/pull/1) in [ganesh-tyjo/portfolio](https://github.com/ganesh-tyjo/portfolio)
+2. 💪 Opened PR [#1](https://github.com/ganesh-tyjo/portfolio/pull/1) in [ganesh-tyjo/portfolio](https://github.com/ganesh-tyjo/portfolio)
 3. 🎉 Merged PR [#1](https://github.com/ganesh-tyjo/joke/pull/1) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
 4. 💪 Opened PR [#1](https://github.com/ganesh-tyjo/joke/pull/1) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
 5. 🎉 Merged PR [#2](https://github.com/ganesh-tyjo/gulp-app/pull/2) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
