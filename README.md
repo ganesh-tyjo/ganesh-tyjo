@@ -1,4 +1,4 @@
-### Hi there, I'm Ganesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi there, I'm Ganesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 [<img align="right" alt="GIF" width="480" height="300" src="./content/images/coder.png" >][github]
 
@@ -53,6 +53,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Gulp 4 Tutorial](https://dev.to/ganeshtyjo/gulp-4-tutorial-50l8)
 - [Source Maps](https://dev.to/ganeshtyjo/source-maps-4h41)
 - [Markdown Cheat Sheet](https://dev.to/ganeshtyjo/markdown-cheat-sheet-1mh0)
@@ -77,8 +78,8 @@
   <br />
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ganesh-tyjo/portfolio/pull/1) in [ganesh-tyjo/portfolio](https://github.com/ganesh-tyjo/portfolio)
-2. 💪 Opened PR [#1](https://github.com/ganesh-tyjo/portfolio/pull/1) in [ganesh-tyjo/portfolio](https://github.com/ganesh-tyjo/portfolio)
+1. 🎉 Merged PR [#2](https://github.com/ganesh-tyjo/joke/pull/2) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
+2. 💪 Opened PR [#2](https://github.com/ganesh-tyjo/joke/pull/2) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
 3. 🎉 Merged PR [#1](https://github.com/ganesh-tyjo/joke/pull/1) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
 4. 💪 Opened PR [#1](https://github.com/ganesh-tyjo/joke/pull/1) in [ganesh-tyjo/joke](https://github.com/ganesh-tyjo/joke)
 5. 🎉 Merged PR [#2](https://github.com/ganesh-tyjo/gulp-app/pull/2) in [ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
