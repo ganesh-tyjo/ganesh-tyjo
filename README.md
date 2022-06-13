@@ -2,7 +2,7 @@
 
 [<img align="right" alt="GIF" width="480" height="300" src="./content/images/coder.png" >][github]
 
-## I'm a Software Developer
+## I'm a Software Engineer
 
 - ✍ You can find my projects [here][portfolio]
 - 🔭 I’m currently working at [Creative IT India][company]
