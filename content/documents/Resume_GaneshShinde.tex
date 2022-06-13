@@ -1,0 +1,179 @@
+%-------------------------
+% Resume in Latex
+% Author : Ganesh Shinde
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{ #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{https://ganesh-shinde.netlify.app/}{\Large Ganesh Shinde}} & Email :  \href{mailto:ganeshshinde.tyjo@gmail.com}{ganeshshinde.tyjo@gmail.com}\\
+  \href{https://ganesh-shinde.netlify.app/}{Portfolio |}
+  \href{https://www.linkedin.com/in/ganesh-tyjo/}{LinkedIn |}
+  \href{https://github.com/ganesh-tyjo/}{GitHub}& Mobile :  +91-8097281710 \\
+\end{tabular*}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {B. N. Bandodkar College}{Thane, India}
+      {(Mumbai University; Bachelor of Science in Information Technology);  Grade: A }{2014 - 2017}
+  \resumeSubHeadingListEnd
+
+%--------PROGRAMMING SKILLS------------
+\section{Programming Skills}
+ \resumeSubHeadingListStart
+ \resumeSubItem{}{
+     \textbf{Languages}{: C\#, Javascript, JQuery, HTML, CSS, SCSS, Kendo, SQL }
+     }
+ \resumeSubItem{}{
+     \textbf{Technologies and Frameworks}{: ASP.NET MVC, .NET Core MVC, WPF }
+    }
+  \resumeSubItem{}{
+     \textbf{Database Technology}{: Microsoft SQL Server }
+    }
+  \resumeSubItem{}{
+     \textbf{Tools}{: Git, Git Hub, Parcel, Gulp }
+    }
+ \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Creative IT India}{Navi Mumbai, India}
+      {Software Engineer}{Sep 2021 - Present}
+      \resumeItemListStart
+      \resumeItem{}
+          {Created platform with better UI/UX to streamline child support process for US government.}
+        \resumeItem{}
+          {Managed ETL platform.}
+      \resumeItemListEnd
+      
+    \resumeSubheading
+      {KANTAR}{Mumbai, India}
+      {Software Engineer}{Jun 2018 - Sep 2021}
+      \resumeItemListStart
+      \resumeItem{}
+        {Created web platform in very less time to conduct online interviews and send 
+        incentives to respondents (When existing face-to-face data collection process got affected due to covid lockdown), which resulted in better reach and revenue growth.}
+      \resumeItem{}
+          {Improved data accuracy, and reduced time consumption by 
+        automating data cleaning processes with applications built 
+        using .Net framework. }
+    \resumeItem{}
+    {Followed the Agile model and worked extensively in C\#, JQuery, HTML, CSS, API.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Align Child Support}
+    { - Helped single parent to get monetary assistance from their partner to care and support their children of a relationship that has been terminated. Provided web platform which is easy to use and handle entire child support process from applying for support to tracking payments. }
+    \resumeSubItem{Dataport}
+    { - It is a lightweight, configurable, and secure enterprise ETL platform, with features like Efficient UI based SQL editor, Track Extraction/Load Status in Real-Time, etc.}
+    \resumeSubItem{KoolP}
+    { - Created web platform in covid lockdown to keep running data collection process by shifting from face-to-face interview to online interviews and send 
+incentives to respondents, by integrating this platform with 
+NIPO (for online surveys) and XOXODAY (for incentives) using 
+their APIs.}
+    \resumeSubItem{Respondent DB}
+    { - Simplified the process of selecting respondents (for 
+conducting interviews) from large centralised respondents 
+data source, by making web platform based on ASP.NET MVC,
+to add conditions based on which respondents will be fetched.}
+    \resumeSubItem{Media XPress}
+    { - Developed dashboard using WPF for creating tables and 
+graphically represented data reports, which helped in easily 
+analysing TV viewership trends.}
+  \resumeSubHeadingListEnd
+
+%-------CERTIFICATIONS------------------  
+\section{Certifications}
+ \resumeSubHeadingListStart
+  \resumeSubItem{}{Udemy certified Complete guide to 
+  \textbf{ASP.NET Core MVC(.NET 6)}.}
+ \resumeSubHeadingListEnd
+
+%---------------------------------------
+\section{Accomplishments}
+ \resumeSubHeadingListStart
+ \resumeSubItem{}{
+    \textbf{Winner}{ - Star Performer of the Quarter}{, January 2022 to March 2022.}
+    }
+ \resumeSubHeadingListEnd
+%-------------------------------------
+ \end{document}
