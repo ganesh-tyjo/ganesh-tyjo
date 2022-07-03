@@ -7,10 +7,12 @@
 - ✍ You can find my projects [here][portfolio]
 - 🔭 I’m currently working at [Creative IT India][company]
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on open source
+<!-- - 👯 I’m looking to collaborate on open source -->
 - 💬 Ask me about Web Technology
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Football and 8-Ball pool
+
+I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am specializing in .Net, C# and Javascript. Always learning new things in web technology space and love to integrate these into projects.
 
 ### Connect with me:
 
