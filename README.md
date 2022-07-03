@@ -7,12 +7,9 @@
 - ✍ You can find my projects [here][portfolio]
 - 🔭 I’m currently working at [Creative IT India][company]
 - 🌱 I’m currently learning everything 🤣
-<!-- - 👯 I’m looking to collaborate on open source -->
 - 💬 Ask me about Web Technology
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Football and 8-Ball pool
-
-I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am specializing in .Net, C# and Javascript. Always learning new things in web technology space and love to integrate these into projects.
 
 ### Connect with me:
 
@@ -42,6 +39,13 @@ I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am spe
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
+
+### About:
+
+I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am specializing in .Net, C# and Javascript. Always learning new things in web technology space and love to integrate these into projects.
+
+<br />
 
 <!-- ---
 
@@ -55,6 +59,7 @@ I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am spe
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Gulp 4 Tutorial](https://dev.to/ganeshtyjo/gulp-4-tutorial-50l8)
 - [Source Maps](https://dev.to/ganeshtyjo/source-maps-4h41)
 - [Markdown Cheat Sheet](https://dev.to/ganeshtyjo/markdown-cheat-sheet-1mh0)
