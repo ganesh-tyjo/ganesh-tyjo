@@ -11,6 +11,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Football and 8-Ball pool
 
+### About:
+
+I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am specializing in .Net, C# and Javascript. Always learning new things in web technology space and love to integrate these into projects.
+
 ### Connect with me:
 
 [<img align="left" alt="Ganesh's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
@@ -39,13 +43,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
-### About:
-
-I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am specializing in .Net, C# and Javascript. Always learning new things in web technology space and love to integrate these into projects.
-
-<br />
 
 <!-- ---
 
@@ -68,7 +65,7 @@ I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am spe
 
 ---
 
-#### Bizness
+#### Business
 
 - :paperclip: [My Resume/CV][resume]
 - :email: ganeshshinde.tyjo@gmail.com
