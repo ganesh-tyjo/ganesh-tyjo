@@ -6,14 +6,15 @@
 
 - ✍ You can find my projects [here][portfolio]
 - 🔭 I’m currently working at [Creative IT India][company]
+- 💪 Specializing in .Net, C# and Javascript
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Web Technology
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Football and 8-Ball pool
 
-### About:
+<!-- ### About:
 
-I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am specializing in .Net, C# and Javascript. Always learning new things in web technology space and love to integrate these into projects.
+I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am specializing in .Net, C# and Javascript. Always learning new things in web technology space and love to integrate these into projects. -->
 
 ### Connect with me:
 
