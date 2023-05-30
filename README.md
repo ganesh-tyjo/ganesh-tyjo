@@ -7,7 +7,7 @@
 - ✍ You can find my projects [here][portfolio]
 - 🔭 I’m currently working at [Creative IT India][company]
 - 💪 Specializing in .Net, C# and Javascript
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning .Net Core
 - 💬 Ask me about Web Technology
 - ⚡ Fun fact: I play Football and 8-Ball pool
 
