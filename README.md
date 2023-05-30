@@ -9,7 +9,6 @@
 - 💪 Specializing in .Net, C# and Javascript
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Web Technology
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Football and 8-Ball pool
 
 <!-- ### About:
