@@ -21,8 +21,9 @@ I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am spe
 [<img align="left" alt="Ganesh's Linkedin" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ganesh's Github" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/github.svg" />][github]
 [<img align="left" alt="Ganesh's DEV" width="26px" src="https://unpkg.com/simple-icons@5.1.0/icons/devdotto.svg" />][dev]
-[<img align="left" alt="Ganesh's Instagram" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ganesh's Facebook" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/facebook.svg" />][facebook]
+
+<!-- [<img align="left" alt="Ganesh's Instagram" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ganesh's Facebook" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/facebook.svg" />][facebook] -->
 
 <br />
 
