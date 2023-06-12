@@ -57,6 +57,7 @@ I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am spe
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Gulp 4 Tutorial](https://dev.to/ganeshtyjo/gulp-4-tutorial-50l8)
 - [Source Maps](https://dev.to/ganeshtyjo/source-maps-4h41)
 - [Markdown Cheat Sheet](https://dev.to/ganeshtyjo/markdown-cheat-sheet-1mh0)
@@ -107,4 +108,4 @@ I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am spe
 [instagram]: https://www.instagram.com/ganesh.tyjo
 [facebook]: https://www.facebook.com/ganesh.tyjo
 [resume]: https://github.com/ganesh-tyjo/ganesh-tyjo/blob/master/content/documents/Resume_GaneshShinde.pdf
-[visitors]: https://visitor-badge.glitch.me/badge?page_id=ganesh-tyjo.ganesh-tyjo
+[visitors]: https://visitor-badge.laobi.icu/badge?page_id=ganesh-tyjo.ganesh-tyjo
