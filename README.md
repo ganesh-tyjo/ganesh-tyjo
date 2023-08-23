@@ -11,10 +11,6 @@
 - 💬 Ask me about Web Technology
 - ⚡ Fun fact: I play Football and 8-Ball pool
 
-<!-- ### About:
-
-I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am specializing in .Net, C# and Javascript. Always learning new things in web technology space and love to integrate these into projects. -->
-
 ### Connect with me:
 
 [<img align="left" alt="Ganesh's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
@@ -57,6 +53,7 @@ I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am spe
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Gulp 4 Tutorial](https://dev.to/ganeshtyjo/gulp-4-tutorial-50l8)
 - [Source Maps](https://dev.to/ganeshtyjo/source-maps-4h41)
 - [Markdown Cheat Sheet](https://dev.to/ganeshtyjo/markdown-cheat-sheet-1mh0)
