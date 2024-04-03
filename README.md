@@ -100,7 +100,7 @@
 [portfolio]: https://ganesh-shinde.netlify.app
 [linkedin]: https://linkedin.com/in/ganesh-tyjo
 [github]: https://github.com/ganesh-tyjo
-[dev]: https://dev.to/ganeshtyjo
+[dev]: https://dev.to/ganesh-tyjo
 [instagram]: https://www.instagram.com/ganesh.tyjo
 [facebook]: https://www.facebook.com/ganesh.tyjo
 [resume]: https://github.com/ganesh-tyjo/ganesh-tyjo/blob/master/content/documents/Resume_GaneshShinde.pdf
