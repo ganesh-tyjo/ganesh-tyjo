@@ -7,7 +7,7 @@
 - ✍ You can find my projects [here][portfolio]
 - 🔭 I’m currently working at [Creative IT India][company]
 - 💪 Specializing in .Net, C# and Javascript
-- 🌱 I’m currently learning .Net Core
+- 🌱 I’m currently learning Azure
 - 💬 Ask me about Web Technology
 - ⚡ Fun fact: I play Football and 8-Ball pool
 
@@ -53,6 +53,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Gulp 4 Tutorial](https://dev.to/ganeshtyjo/gulp-4-tutorial-50l8)
 - [Source Maps](https://dev.to/ganeshtyjo/source-maps-4h41)
 - [Markdown Cheat Sheet](https://dev.to/ganeshtyjo/markdown-cheat-sheet-1mh0)
